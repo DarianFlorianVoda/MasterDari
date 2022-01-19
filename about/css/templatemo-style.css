@@ -683,6 +683,15 @@ section.contact-me {
     text-align: center;
 }
 
+* {
+  box-sizing: border-box;
+}
+
+.col-sm{
+    font-family: Georgia;
+
+}
+
 @media screen and (max-width: 1680px) {
     .menu {
         left: 5%;
